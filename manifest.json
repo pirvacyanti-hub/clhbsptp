@@ -1,0 +1,20 @@
+{
+  "name": "You are an Clubstep",
+  "short_name": "Virustep",
+  "start_url": "clubstep.htm",
+  "display": "standalone",
+  "background_color": "lime",
+  "theme_color": "lime",
+  "icons": [
+    {
+      "src": "diffIcon_01_btn_001.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "diffIcon_01_btn_001.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
